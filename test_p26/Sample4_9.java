@@ -12,7 +12,7 @@ public class Sample4_9
 		for(int i=0;i<cars.length;i++)
 		{
 			Class cl = cars[i].getClass();
-			System.out.println("第"+(i+1)+"個物件的類別量是"+cl);
+			System.out.println("第"+(i+1)+"個物件的類別是"+cl);
 		}
 	}
 }
